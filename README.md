@@ -2,6 +2,7 @@
 
 google-image-scraper
 ==================
+<br/>
 
 Purpose
 -------------------------
@@ -19,7 +20,7 @@ Execution Instructions
 
 
 License
-=======
+-------------------------
 
 google-image-scraper is available under the MIT license, see the LICENSE file for more details.
 
