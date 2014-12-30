@@ -12,7 +12,7 @@ def download_image(l, i):
 	if not os.path.exists(directory):
 		os.makedirs(directory)
 
-	filepath = directory + '/rock_'+ str(i)
+	filepath = directory + '/img_'+ str(i)
 	print filepath
 	print l
 	try:
