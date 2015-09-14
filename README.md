@@ -6,7 +6,7 @@ google-image-scraper
 
 Purpose
 -------------------------
-Using three script files you can download original image files in bulk from a Google Image search. I am personally using it to create an artificial data set.
+Using three script files you can download original image files in bulk from a Google Image search. I am personally using it to create an image data set of textures.
 
 **Python 2.7 is needed to run the Python scripts.**
 
